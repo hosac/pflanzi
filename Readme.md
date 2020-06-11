@@ -12,7 +12,7 @@ There are so many audio speakers in the market but most of them are restricted/l
 
 <h2>Mechanical, 3D-printed parts</h2>
 
-The best way to provide files, instructions and details for 3D-printing is to use dedicated platforms. Please find "pflanzi" on [Thingiverse](https://www.thingiverse.com/thing:4429067).
+The best way to provide files, instructions and details for 3D-printing is to use dedicated platforms. Please find "pflanzi" on [Prusaprinters](https://www.prusaprinters.org/prints/34203-pflanzi) and  [Thingiverse](https://www.thingiverse.com/thing:4429067).
 
 <h2>Shopping list / Assembly instructions</h2>
 
