@@ -44,6 +44,12 @@ network={
 
 ```
 
+<h3>Boot and connect</h3>
+
+Boot your system with the prepared SD-card.
+
+Connect via SSH to raspberrypi.local and login with standard credentials (username: pi, password: raspberry).
+
 <h3>Prerequisites</h3>
 
 Make sure you have a updated system
@@ -56,10 +62,6 @@ Make sure you have a updated system
 	sudo reboot
 	
 <h3>Installation</h3> 
-
-Boot your system with the prepared SD-card.
-
-Connect via SSH to raspberrypi.local and login with standard credentials (username: pi, password: raspberry).
 
 <b>Option 1:</b> Download the pflanzi repository, unzip/remove/rename and change into it.
 
